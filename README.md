@@ -13,3 +13,5 @@ Feture update will be inculude this feature
 
 * Drop extra item to chest
 * Recive item from chest etc...
+
+farmbot by Oktay Mercan is licensed under CC BY-NC-SA 4.0CC iconby iconnc iconsa icon
