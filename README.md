@@ -1,17 +1,25 @@
-# farmbot v0.5
-Computercraft, farmer turtle program.
+# 🤖 Farmbot v0.5
 
-Some turtle slot are dedicated to this purpose:
+![Version](https://img.shields.io/badge/version-v0.5-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Platform](https://img.shields.io/badge/platform-ComputerCraft-darkmagenta.svg)
 
-* Slot 1 = seed slot
-* Slot 2 = BoneMeal slot
-* Slot 16 = Fuel slot
+**Farmbot** is a specialized automation program for ComputerCraft turtles, designed to handle the entire lifecycle of farming.
 
-if this requirements not exist then turtle will be give error and warning message.
+## 📦 Inventory Requirements
 
-Feture update will be inculude this feature
+The turtle strictly requires specific items to be placed in dedicated inventory slots to function correctly. **If these requirements are not met, the program will halt and display an error message.**
 
-* Drop extra item to chest
-* Recive item from chest etc...
+| Slot | Purpose |
+| :--- | :--- |
+| **Slot 1** | Seed Slot |
+| **Slot 2** | BoneMeal Storage |
+| **Slot 16** | Fuel Source |
 
-farmbot by Oktay Mercan is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0
+## 🚀 Future Roadmap
+
+I'm actively developing new features to make Farmbot fully autonomous:
+
+* 📥 **Chest Integration (Receive):** Automatic refueling and resupply of seeds/bonemeal from connected chests.
+* 📤 **Chest Integration (Drop):** Automatic dumping of extra things and drops into connected chests.
+* 🛠 **Smart Error Handling:** Improved UI messages for missing resources.
