@@ -23,3 +23,7 @@ I'm actively developing new features to make Farmbot fully autonomous:
 * 📥 **Chest Integration (Receive):** Automatic refueling and resupply of seeds/bonemeal from connected chests.
 * 📤 **Chest Integration (Drop):** Automatic dumping of extra things and drops into connected chests.
 * 🛠 **Smart Error Handling:** Improved UI messages for missing resources.
+
+---
+
+Copyright (c) 2026 Oktay Mercan https://github.com/OKTAYMERCAN/farmbot
