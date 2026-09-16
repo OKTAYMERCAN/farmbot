@@ -1,7 +1,6 @@
 # 🤖 Farmbot v0.5
 
 ![Version](https://img.shields.io/badge/version-v0.5-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/platform-ComputerCraft-darkmagenta.svg)
 
 **Farmbot** is a specialized automation program for ComputerCraft turtles, designed to handle the entire lifecycle of farming.
